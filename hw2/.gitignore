@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+hw2/audio-cost-log.jsonl
+.idea/

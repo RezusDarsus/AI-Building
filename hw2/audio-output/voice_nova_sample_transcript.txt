@@ -1,0 +1,1 @@
+Machine learning models learn patterns from data. They generalize from training examples to make predictions on new, unseen inputs. The quality of the training data directly determines the quality of the model's predictions.
